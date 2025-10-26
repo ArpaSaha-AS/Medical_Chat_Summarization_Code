@@ -172,16 +172,8 @@ Response:
 Run Step 5 in your Colab notebook to launch a local Gradio interface or FastAPI endpoint for model testing within Colab.
 
 Repository Structure
-medical-soap-summarizer/
-│
-├── app.py                          # API deployment script
-├── fine_tuned_bart/                # Fine-tuned model directory
-├── data/
-│   ├── medical_dialogue_train.csv
-│   ├── medical_dialogue_test.xlsx
-│   └── medical_dialogue_validation.xlsx
-├── train_model.ipynb               # Colab notebook for fine-tuning
-└── README.md                       # Project documentation
+<img width="544" height="243" alt="structure" src="https://github.com/user-attachments/assets/dbb52fde-22a0-4433-800b-456f2ba7386d" />
+
 
 Summary
 This project demonstrates an end-to-end pipeline for fine-tuning, evaluating, and deploying a BART-based medical summarization model.
